@@ -1,0 +1,4 @@
+*.sh
+*.csv
+.ipynb_checkpoints/
+catboost_info/
